@@ -228,8 +228,8 @@ layout: page
                               <li>...and others</li>
                           </ul>
                           <li>1 Year Commitment</li>
-                          <a class="btn btn-lg btn-block btn-success" href="{{ site.url }}{{ site.baseurl}}/contact">BUY NOW!</a>
                       </ul>
+                      <a class="btn btn-lg btn-block btn-success" href="{{ site.url }}{{ site.baseurl}}/contact">BUY NOW!</a>
                   </div>
                 </div>
             </div>
