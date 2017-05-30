@@ -14,7 +14,7 @@ select > option {
 
 <form action="http://formspree.io/joshua.thorild.hull@gmail.com" method="POST">
 <input type="hidden" name="_subject" value="Hull Cloud Concepts Contact Submission" />
-<input type="hidden" name="_next" value="//joshua_hull.github.io/cloudconsulting/thank-you" />
+<input type="hidden" name="_next" value="//joshua-hull.github.io/cloudconsulting/thank-you" />
 <div class="form-group">
     <label for="exampleInputEmail1">Email Address</label>
     <input type="email" name="_replyto" class="form-control" id="exampleInputEmail1" placeholder="Email">
